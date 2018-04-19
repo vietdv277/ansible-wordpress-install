@@ -1,0 +1,5 @@
+---
+# vars file for mysql
+wp_mysql_db: wp_blog
+wp_mysql_user: wp_blog
+wp_mysql_password: cTIhtfBqe7lNBxvyquwREJFIWFf2rzl9cG9dvU6Wi8BMwCrZ
